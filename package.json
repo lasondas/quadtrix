@@ -1,0 +1,11 @@
+{
+  "name": "qtrix",
+  "version": "0.1.0",
+  "description": "a minimalistic linear algebra and matrix library for WebGL and WebGPU",
+  "license": "MIT",
+  "author": "Otto Järvinen",
+  "type": "module",
+  "main": "quadtrix.js",
+  "scripts": {
+  }
+}
